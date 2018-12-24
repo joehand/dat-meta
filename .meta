@@ -1,3 +1,6 @@
 {
- "projects": {}
+  "projects": {
+    "dat": "git@github.com:datproject/dat.git",
+    "dat-node": "git@github.com:datproject/dat-node.git"
+  }
 }
