@@ -6,6 +6,7 @@ meta is:
 
 > a tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
 
+<img src="modules.png" width="150">
 
 ## Getting Started
 
