@@ -1,6 +1,20 @@
 {
   "projects": {
     "dat": "git@github.com:datproject/dat.git",
-    "dat-node": "git@github.com:datproject/dat-node.git"
+    "dat-node": "git@github.com:datproject/dat-node.git",
+    "hyperdrive": "git@github.com:mafintosh/hyperdrive.git",
+    "hypercore": "git@github.com:mafintosh/hypercore.git",
+    "network/dat-swarm-defaults": "git@github.com:datproject/dat-swarm-defaults.git",
+    "network/discovery-swarm": "https://github.com/mafintosh/discovery-swarm/",
+    "network/discovery-channel": "git@github.com:maxogden/discovery-channel.git",
+    "storage/dat-storage": "git@github.com:datproject/dat-storage.git",
+    "storage/dat-secret-storage": "git@github.com:datproject/dat-secret-storage.git",
+    "dat-utils/dat-doctor": "git@github.com:datproject/dat-doctor.git",
+    "dat-utils/dat-link-resolve": "git@github.com:datproject/dat-link-resolve.git",
+    "dat-utils/dat-ignore": "git@github.com:datproject/dat-ignore.git",
+    "dat-utils/hyperdrive-http": "https://github.com/datproject/hyperdrive-http",
+    "dat-utils/hypedrive-network-speed": "git@github.com:datproject/hyperdrive-network-speed.git",
+    "utils/mirror-folder": "git@github.com:mafintosh/mirror-folder.git",
+    "utils/neat-log": "git@github.com:neat-log/neat-log.git"
   }
 }

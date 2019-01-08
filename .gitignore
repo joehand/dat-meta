@@ -1,2 +1,8 @@
 dat
 dat-node
+hyperdrive
+hypercore
+network/
+storage/
+dat-utils/
+node_modules
